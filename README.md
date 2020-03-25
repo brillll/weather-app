@@ -39,30 +39,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Link to view deployed project [React weather app](https://react-weather-app-accuweather.herokuapp.com/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React weather app using AccuWeather API with Redux as state management.
 
-### Code Splitting
+API calls:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+    * Accuweather autocomplete location search
 
-### Analyzing the Bundle Size
+    * Accuweather Current weather condition in selected location
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    * Accuweather 5 day forecast in selected location
