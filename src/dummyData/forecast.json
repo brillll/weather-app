@@ -1,0 +1,43 @@
+{
+    "Headline":{
+        "EffectiveDate":"2020-01-30T07:00:00+00:00",
+        "EffectiveEpochDate":1580367600,
+        "Severity":5,
+        "Text":"Expect showers Thursday morning",
+        "Category":"rain",
+        "EndDate":"2020-01-30T13:00:00+00:00",
+        "EndEpochDate":1580389200,
+        "MobileLink":"http://m.accuweather.com/en/gb/london/ec4a-2/extended-weather-forecast/328328?lang=en-us",
+        "Link":"http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?lang=en-us"},
+        "DailyForecasts":[
+            {
+                "Date":"2020-01-28T07:00:00+00:00",
+                "EpochDate":1580194800,
+                "Temperature":{
+                    "Minimum":{
+                        "Value":37.0,
+                        "Unit":"F",
+                        "UnitType":18
+                    },
+                    "Maximum":{
+                        "Value":46.0,
+                        "Unit":"F",
+                        "UnitType":18}},
+                        "Day":{
+                            "Icon":14,
+                            "IconPhrase":"Partly sunny w/ showers",
+                            "HasPrecipitation":true,"PrecipitationType":"Rain",
+                            "PrecipitationIntensity":"Light"},
+                        "Night":{
+                            "Icon":35,
+                            "IconPhrase":"Partly cloudy",
+                            "HasPrecipitation":false
+                        },
+                        "Sources":["AccuWeather"],
+                        "MobileLink":"http://m.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=1&lang=en-us",
+                        "Link":"http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=1&lang=en-us"},
+                        {
+                "Date":"2020-01-29T07:00:00+00:00",
+                "EpochDate":1580281200,
+                "Temperature":{
+                    "Minimum":{"Value":44.0,"Unit":"F","UnitType":18},"Maximum":{"Value":47.0,"Unit":"F","UnitType":18}},"Day":{"Icon":3,"IconPhrase":"Partly sunny","HasPrecipitation":false},"Night":{"Icon":38,"IconPhrase":"Mostly cloudy","HasPrecipitation":false},"Sources":["AccuWeather"],"MobileLink":"http://m.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=2&lang=en-us","Link":"http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=2&lang=en-us"},{"Date":"2020-01-30T07:00:00+00:00","EpochDate":1580367600,"Temperature":{"Minimum":{"Value":49.0,"Unit":"F","UnitType":18},"Maximum":{"Value":53.0,"Unit":"F","UnitType":18}},"Day":{"Icon":7,"IconPhrase":"Cloudy","HasPrecipitation":true,"PrecipitationType":"Rain","PrecipitationIntensity":"Light"},"Night":{"Icon":8,"IconPhrase":"Dreary","HasPrecipitation":false},"Sources":["AccuWeather"],"MobileLink":"http://m.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=3&lang=en-us","Link":"http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=3&lang=en-us"},{"Date":"2020-01-31T07:00:00+00:00","EpochDate":1580454000,"Temperature":{"Minimum":{"Value":47.0,"Unit":"F","UnitType":18},"Maximum":{"Value":55.0,"Unit":"F","UnitType":18}},"Day":{"Icon":12,"IconPhrase":"Showers","HasPrecipitation":true,"PrecipitationType":"Rain","PrecipitationIntensity":"Light"},"Night":{"Icon":7,"IconPhrase":"Cloudy","HasPrecipitation":false},"Sources":["AccuWeather"],"MobileLink":"http://m.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=4&lang=en-us","Link":"http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=4&lang=en-us"},{"Date":"2020-02-01T07:00:00+00:00","EpochDate":1580540400,"Temperature":{"Minimum":{"Value":47.0,"Unit":"F","UnitType":18},"Maximum":{"Value":54.0,"Unit":"F","UnitType":18}},"Day":{"Icon":12,"IconPhrase":"Showers","HasPrecipitation":true,"PrecipitationType":"Rain","PrecipitationIntensity":"Light"},"Night":{"Icon":12,"IconPhrase":"Showers","HasPrecipitation":true,"PrecipitationType":"Rain","PrecipitationIntensity":"Light"},"Sources":["AccuWeather"],"MobileLink":"http://m.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=5&lang=en-us","Link":"http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=5&lang=en-us"}]}
