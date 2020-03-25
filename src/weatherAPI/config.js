@@ -1,4 +1,4 @@
-const apiKey = 'rocl7OxTdcsOGX3Z5P2OxZ6p6JH1AzSQ';
+const apiKey = 'go3cnbNLwwgrxlEepnmaVGAasVazxKfx';
 
 
 const locationsSearchUrl = (userInput) => `https://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey=${apiKey}&q=${userInput}&language=en-us`;
